@@ -1,0 +1,26 @@
+========================
+POINT OF SALE SYSTEM
+========================
+
+1. Install java (If not already installed it).
+
+2. If above file is not installed yet then Point of sale System 
+will be shown as a rar file, but after installing it open it with java.
+
+3. Double click the Point of Sale System (Executable Jar File).
+
+4. All the database will be saved in the database file (in the application directory).
+
+----------------USING THE POINT OF SYSTEM-------------------
+
+* First add the items in the product tab.
+
+* After adding the items then you can find them in sell tab and you can add them in directory.
+
+* Click Customer Tab, add any customer and his ledger by selecting the customer.
+
+* You can see reports of week and month in the report tab.
+
+* For any queries contact the developer...
+
+* For Your shop name in printing contact developer..
